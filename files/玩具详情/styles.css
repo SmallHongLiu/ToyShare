@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1056px;
+  width:1050px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -494,7 +494,7 @@
   left:0px;
   top:0px;
   width:633px;
-  height:80px;
+  height:100px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -505,10 +505,10 @@
 }
 #u416 {
   position:absolute;
-  left:423px;
-  top:630px;
+  left:417px;
+  top:623px;
   width:633px;
-  height:80px;
+  height:100px;
 }
 #u417 {
   position:absolute;
