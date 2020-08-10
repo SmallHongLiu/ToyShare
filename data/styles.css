@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -19,7 +19,7 @@
 .button {
 }
 ._形状 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -28,41 +28,41 @@
   line-height:normal;
 }
 ._一级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -122,7 +122,7 @@
   text-align:left;
 }
 .heading_1 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
@@ -131,28 +131,28 @@
 .shape {
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._32号字_单行列表内，右方操作说明的文字__） {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
   text-align:left;
 }
 ._30号字_服务主标题，例如双行列表内的下方描述信息。__） {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:15px;
   text-align:left;
 }
 ._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -162,5 +162,9 @@
   color:#000000;
 }
 .box_2 {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
 }
 textarea, select, input, button { outline: none; }
